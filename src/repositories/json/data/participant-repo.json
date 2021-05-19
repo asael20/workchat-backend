@@ -1,0 +1,22 @@
+[
+   {
+      "userId": "1002495805",
+      "role": "Manager",
+      "roomId": 2
+   },
+   {
+      "userId": "1002495801",
+      "role": "Manager",
+      "roomId": 2
+   },
+   {
+      "userId": "1002495803",
+      "role": "Tester",
+      "roomId": 2
+   },
+   {
+      "userId": "1002495806",
+      "role": "SEO Manager",
+      "roomId": 4
+   }
+]

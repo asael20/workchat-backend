@@ -1,0 +1,64 @@
+[
+   {
+      "id": "1002495801",
+      "name": "Julio Manuel",
+      "lastName": "de la Rosa",
+      "email": "julio@gmail.com",
+      "password": "1233"
+   },
+   {
+      "id": "1002495802",
+      "name": "Magalis Victoria",
+      "lastName": "Sampayo Camargo",
+      "email": "magalis@gmail.com",
+      "password": "1233"
+   },
+   {
+      "id": "1002495803",
+      "name": "Naason Manuel",
+      "lastName": "De la Rosa Sampayo",
+      "email": "naason@gmail.com",
+      "password": "1233"
+   },
+   {
+      "id": "1002495805",
+      "name": "Anamaria",
+      "lastName": "De la Rosa Sampayo",
+      "email": "anamaria@gmail.com",
+      "password": "1233"
+   },
+   {
+      "id": "1002495806",
+      "name": "Zhoar Aberto",
+      "lastName": "De la Rosa Sampayo",
+      "email": "zhoar@gmail.com",
+      "password": "1233"
+   },
+   {
+      "id": "1002495808",
+      "name": "Asael Enrique",
+      "lastName": "De la Rosa Sampayo",
+      "email": "asael@gmail.com",
+      "password": "1233"
+   },
+   {
+      "name": "MAgalis Victoria",
+      "lastName": "Sampayo Camargo",
+      "email": "magalis@hotmail.com",
+      "password": "123abc"
+   },
+   {
+      "id": "10024951022",
+      "name": "Juan Carlos",
+      "lastName": "Figueroa",
+      "email": "jcarlos@gmail.com",
+      "password": "123abc"
+   },
+   {
+      "id": "100249510223",
+      "name": "Juan Carlos",
+      "lastName": "Figueroa",
+      "email": "jcarlos@gmail.coms",
+      "password": "123abc"
+   }
+]
