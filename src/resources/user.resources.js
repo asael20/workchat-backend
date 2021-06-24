@@ -30,7 +30,7 @@ userResource.get('/:email/contact-requests', async (req, res, next) => {
 userResource.get('/:email/rooms', async (req, res, next) => {
     const {email} = req.params;
    
-    const result = await _userService.listOwnRooms({userEmail: email})
+    const result = await _userService.listOwnRooms({userEmail: email});
     res.status(result.code).json(result)
 });
 
